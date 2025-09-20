@@ -8,7 +8,7 @@
 
 ## Demo images:
 
-![](Screenshots/screenshot-1.png)
+<img src="Demo images/screenshot-1.png" width="200">
 
 ![](Screenshots/screenshot-2.png)
 
