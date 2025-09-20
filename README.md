@@ -8,7 +8,7 @@
 
 ## Screenshots:
 
-![](Demoimages/screenshot-1.png)
+![](Demo images/screenshot-1.png)
 
 ![](Screenshots/screenshot-2.png)
 
