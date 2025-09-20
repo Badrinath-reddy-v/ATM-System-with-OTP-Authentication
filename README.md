@@ -6,9 +6,9 @@
 - Uses **Twilio** services to send a randomly generated OTP verification code to the end user on registered phone number.
 - Uses **Tkinter** library for the GUI of the system.
 
-## Screenshots:
+## Demo images:
 
-![](Demo images/screenshot-1.png)
+![](Screenshots/screenshot-1.png)
 
 ![](Screenshots/screenshot-2.png)
 
@@ -18,4 +18,4 @@
 
 ![](Screenshots/screenshot-5.png)
 
-<img src="Screenshots/screenshot-6.png" width="300">
+<img src="Demo images/screenshot-6.png" width="100">
