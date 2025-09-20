@@ -8,14 +8,14 @@
 
 ## Demo images:
 
-<img src="Demo images/screenshot-1.png" width="300" height="300">
+<img src="Demo images/screenshot-1.png" width="400" height="400">
 
-<img src="Demo images/screenshot-2.png" width="300" height="300">
+<img src="Demo images/screenshot-2.png" width="400" height="400">
 
-<img src="Demo images/screenshot-3.png" width="300" height="300">
+<img src="Demo images/screenshot-3.png" width="400" height="400">
 
-<img src="Demo images/screenshot-4.png" width="300" height="300">
+<img src="Demo images/screenshot-4.png" width="400" height="400">
 
-<img src="Demo images/screenshot-5.png" width="300" height="300">
+<img src="Demo images/screenshot-5.png" width="400" height="400">
 
-<img src="Demo images/screenshot-6.png" width="300" height="300">
+<img src="Demo images/screenshot-6.png" width="400" height="600">
