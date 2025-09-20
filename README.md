@@ -18,4 +18,4 @@
 
 ![](Screenshots/screenshot-5.png)
 
-<img src="Demo images/screenshot-6.png" width="100">
+<img src="Demo images/screenshot-6.png" width="200">
